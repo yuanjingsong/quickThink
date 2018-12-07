@@ -3,3 +3,7 @@
 [switch / case 与 if / else 的区别](https://github.com/yuanjingsong/quickThink/issues/1)
 
 [linux 文件目录](https://github.com/yuanjingsong/quickThink/issues/2)
+
+[并行性的一些思考] (https://github.com/yuanjingsong/quickThink/issues/3)
+
+[C/C++求值顺序](https://github.com/yuanjingsong/quickThink/issues/4)
